@@ -1,4 +1,6 @@
-import numpy as np
+#Código criado por: Iury Chagas da Silva Caetano
+import numpy as np #importando bibliteca numpy para o objeto np
+
 #variaveis com inicialização em 0 para retirar lixo de memoria
 identidade = 0
 simetrica = 0
