@@ -1,10 +1,11 @@
 #Código criado por: Iury Chagas da Silva Caetano
 import numpy as np
-#importando a biblioteca numpy
+#importando a biblioteca numpy para o objeto "np"
 
 #exibindo mensagem da funcionalidade do programa
 print("Este programa mostra a inversa da matriz Anxn digitada! \n")
-# por se tratar de uma matriz invertivel, assume-se que ela é uma matriz quadrada, por tanto, não há necessidade de pedir linhas e colunas separadamente, e sim apenas a quantidade de linhas
+# por se tratar de uma matriz invertivel, assume-se que ela é uma matriz quadrada, por tanto, não há necessidade de pedir linhas e colunas separadamente, e sim apenas 
+#a quantidade de linhas
 Linha = int(input("Insira a quantidade de linhas da matriz!\n"))
 Coluna = Linha
 
