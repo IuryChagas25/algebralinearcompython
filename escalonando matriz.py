@@ -1,4 +1,6 @@
-import numpy  as np #importando a biblioteca numpy
+#Código criado por: Iury Chagas da Silva Caetano
+
+import numpy  as np #importando a biblioteca numpy para o objeto "np"
 
 #definindo uma matriz, onde cada indice desse array, será feito uma linha da matriz
 
