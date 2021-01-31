@@ -1,6 +1,6 @@
 #Código criado por: Iury Chagas da Silva Caetano
 import numpy as np
-#importando bibliotena numpy ao obejeto "np"
+#importando bibliotena numpy ao objeto "np"
 
 print("Insira uma matriz quadrada para calcular seu determinante! \n")
 Linha = int(input("Insira a dimensão da Matriz: "))
